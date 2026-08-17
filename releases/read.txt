@@ -1,1 +1,1 @@
-
+This folder contains all the releases of the game.
