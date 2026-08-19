@@ -114,7 +114,7 @@ Here are some credits for inspirations, music, and more.
 * Rush: Djjaner - The Rush
 * Woods Rush: BossfightOfficial - Milky Ways
 * City Rush: BossfightOfficial - Milky Ways Redux
-* Dancer Zombie Theme: LemKuuja - What is a future funk
+* Dancer Zombie Theme: ??
 
 ## SFX:
 * PenguinMod
