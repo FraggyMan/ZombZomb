@@ -114,7 +114,7 @@ Here are some credits for inspirations, music, and more.
 * Rush: Djjaner - The Rush
 * Woods Rush: BossfightOfficial - Milky Ways
 * City Rush: BossfightOfficial - Milky Ways Redux
-* Dancer Zombie Theme: ??
+* Dancer Zombie Theme: Envy - Heaven RD. 2
 
 ## SFX:
 * PenguinMod
